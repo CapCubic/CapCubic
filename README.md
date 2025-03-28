@@ -5,3 +5,7 @@
 - 📫 I can be found on Twitter at @ZachParker58
 - I am transitioning away from the education field with experience using LMS for data analytics for the development of my students. As such, I am highly experienced in presentations and developing dashboards for students to better understand their development within the classroom. As a data analyst, my primary uses of data have been within the classroom and on the football field, which helped me lead our team to one championship, one semifinal appearance in the state conference in our first year in the conference, and a higher level of development for our local high school over the course of three years.
 - Finally, I am a former Division 1 athlete with sigificant experience around college football. This has exposed me to the modern programs being used for a mid level football programs and has helped me note the changes I'd like to make for my own project. At this time, I am working to move my files here into GitHub for this portfolio.
+- The following links are websites that I've designed over the course of my early web development career, primarily with third party tools.
+- https://www.koolinxz.com/
+- https://www.marbleshopgreenfield.com/
+- At time of writing, I am working on 2 others, and will update here when those are done. 
