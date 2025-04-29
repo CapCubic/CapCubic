@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CapCubic
 - 👀 I’m a mathematician interested in sports data and analytics primarily, with interest in corporate probabilities and mathematical modeling. 
-- 🌱 I’m currently learning more about Relational Databases and strengthening by abilities with SQL, and have base knowledge in HTML, CSS, Javascript, R, Python, and the React and Redux frameworks.
+- 🌱 I’m currently learning more about Relational Databases and strengthening by abilities with SQL and Bash, and have base knowledge in HTML, CSS, Javascript, R, Python, and the React and Redux frameworks.
 - 💞️ I’m looking to collaborate on a program or application to allocate head football coaching responsibilities to algorithms by increasing the efficiency of scouting reports and making it cheap so the average consumer can afford it for the development of their athletes. 
 - 📫 I can be found on Twitter at @ZachParker58
 - I am transitioning away from the education field with experience using LMS for data analytics for the development of my students. As such, I am highly experienced in presentations and developing dashboards for students to better understand their development within the classroom. As a data analyst, my primary uses of data have been within the classroom and on the football field, which helped me lead our team to one championship, one semifinal appearance in the state conference in our first year in the conference, and a higher level of development for our local high school over the course of three years.
